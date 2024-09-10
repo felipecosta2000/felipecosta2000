@@ -36,6 +36,8 @@ Eclipse, Intellij, Visual Code, Git, SVN, NPM, Yarn, Trello, Jira, Postman, Inso
 Java, Javascript, Typescript, Nodejs, HTML5, CSS, Bootstrap, React, Angular, MySQL, PostegreSQL, MongoDB.
 
 ![image](https://github.com/user-attachments/assets/42f05c3d-b83a-4cf9-b85d-55ee6dbbd230)
+![image](https://github.com/user-attachments/assets/94f106ce-eacd-42c3-b261-1e1927089fae)
+
 
 ## Get in Touch 📬
 
