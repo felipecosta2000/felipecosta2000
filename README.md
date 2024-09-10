@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# sobre mim
+# Sobre Mim
 Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI. Sou Desenvolvedor Web Java, JavaScritpt e Php. Com conhecimento em Arquiteturas de Microserviços, forte capacidade analítica, dinamismo e resolução de problemas com criatividade.
 
 ## My Skills 🧠
