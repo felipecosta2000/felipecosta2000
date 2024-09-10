@@ -38,11 +38,12 @@ Java, Javascript, Typescript, Nodejs, HTML5, CSS, Bootstrap, React, Angular, MyS
 
 - [Youtube](youtube.com/@feliperodriguescosta1515)
 - [LinkedIn](linkedin.com/in/feliperdgcosta)
-
+- [GitHub](github.com/felipecosta2000)
 <!--
 **felipecosta2000/felipecosta2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Personal Website / 
+https://github.com/felipecosta2000
 
 Here are some ideas to get you started:
 
