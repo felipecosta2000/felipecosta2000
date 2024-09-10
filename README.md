@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-                         ![image](https://github.com/user-attachments/assets/be0fc57f-d278-4c65-866a-c1b73d12c2fb)
-
+![image](https://github.com/user-attachments/assets/be0fc57f-d278-4c65-866a-c1b73d12c2fb)
 
 # Sobre Mim
 Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI. Sou Desenvolvedor Web Java, JavaScritpt e Php. Com conhecimento em Arquiteturas de Microserviços, forte capacidade analítica, dinamismo e resolução de problemas com criatividade.
