@@ -15,7 +15,7 @@ Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI.
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/bower/l/typescript?style=flat-square&logo=typescript&logoColor=blue)
 ![Angular](https://img.shields.io/bower/l/Angular?style=flat-square&logo=Angular&logoColor=rose)
-![MongoDB](https://img.shields.io/bower/l/MongoDB?style=flat-square&logo=MongoDB&logoColor=white)
+![MongoDB](https://img.shields.io/bower/l/MongoDB?style=flat-square&logo=MongoDB&logoColor=green)
 
 # Linguagem de programação:
 Java, Spring Framework, Springboot, PHP. JavaScript.
