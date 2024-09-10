@@ -10,7 +10,7 @@ Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI.
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Bootstrap] (https://img.shields.io/bower/l/bootstrap?style=flat&logo=https%3A%2F%2Fwww.google.com.br%2Furl%3Fsa%3Di%26url%3Dhttps%253A%252F%252Fwhatthelogo.com%252Flogo%252Fbootstrap-framework%252F270940%26psig%3DAOvVaw0N8ngkNUJi7-y_TCx11r-2%26ust%3D1726077755905000%26source%3Dimages%26cd%3Dvfe%26opi%3D89978449%26ved%3D0CBQQjRxqFwoTCPCJ5_H6uIgDFQAAAAAdAAAAABAJ&logoColor=violet)
+![Bootstrap](https://img.shields.io/bower/l/bootstrap?style=flat-square&logo=bootstrap&logoColor=violet)
 
 
 # Linguagem de programação:
