@@ -35,11 +35,6 @@ Eclipse, Intellij, Visual Code, Git, SVN, NPM, Yarn, Trello, Jira, Postman, Inso
 # Skills:
 Java, Javascript, Typescript, Nodejs, HTML5, CSS, Bootstrap, React, Angular, MySQL, PostegreSQL, MongoDB.
 
-![image](https://github.com/user-attachments/assets/171bc36c-0206-4553-83e9-e52226218714)
-![image](https://github.com/user-attachments/assets/8be27199-1097-487d-99c3-660e0ce1046f)
-
-
-
 ## Get in Touch 📬
 
 - [Youtube](youtube.com/@feliperodriguescosta1515)
