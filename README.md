@@ -3,7 +3,7 @@
 ![image](https://github.com/user-attachments/assets/be0fc57f-d278-4c65-866a-c1b73d12c2fb)
 
 # Sobre Mim
-Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI, já atuei em diversos órgãos públicos, SEEDUC, SAÚDE-RJ, DETRAN-RJ, Meio Ambiente, Instituto de Pesquisa Jardim Botânico e Justiça Federal do RJ. Sou Desenvolvedor Web Java, JavaScritpt e Php. Com conhecimento em Arquiteturas de Microserviços, forte capacidade analítica, dinamismo e resolução de problemas com criatividade.
+Oi, eu chamo Felipe Rodrigues Costa, possuo sólida experiência na área de TI, já atuei em diversos órgãos públicos, SeeducRJ, SaudeRJ, SeplagRJ DETRAN-RJ, Meio Ambiente, Instituto de Pesquisa Jardim Botânico e Justiça Federal do RJ. Sou Desenvolvedor Web Java, JavaScritpt e Php. Com conhecimento em Arquiteturas de Microserviços, forte capacidade analítica, dinamismo e resolução de problemas com criatividade.
 
 ## My Skills 🧠
 
